@@ -1,0 +1,141 @@
+---
+- hosts: Ubuntu
+  remote_user: abhi
+
+  vars:
+    depedenciesforvbox:
+      - build-essential
+      - dkms
+      - unzip
+      - wget
+      - python-pexpect
+
+    depedenciesforphpvbox:
+      - apache2
+      - php
+      - php-mysql
+      - libapache2-mod-php
+      - php-soap
+      - php-xml
+
+  tasks:
+    - name: Install Basic packages
+      apt: pkg={{depedenciesforvbox}} state=present update_cache=yes
+      become: yes
+
+    - name: Install Virtualbox
+      apt: pkg=virtualbox state=present 
+      become: yes
+
+    - name: Adding user to vbox users group
+      user:
+        name: abhi
+        group: vboxusers
+      become: yes
+
+    - name: download extension pack
+      get_url:
+        url: http://download.virtualbox.org/virtualbox/5.0.24/Oracle_VM_VirtualBox_Extension_Pack-5.0.24-108355.vbox-extpack
+        dest: /home/abhi/
+
+    - shell: if ([[ $(VBoxManage list extpacks | grep "Extension Packs") == *0* ]]); then  echo "OK"; fi
+      register: Extension_Packs
+
+    - name: Install vbox-extpack
+      become: yes
+      when: Extension_Packs.stdout == 'OK'
+      expect:
+        command: VBoxManage extpack install Oracle_VM_VirtualBox_Extension_Pack-5.0.24-108355.vbox-extpack
+        responses:
+          (.*\(y/n\)\?):
+            - "y"
+
+    - name: Install depedencies for phPvirtualbox
+      apt: pkg={{depedenciesforphpvbox}} state=present update_cache=yes
+      become: yes
+
+    - name: Install phPvirtualbox
+      get_url:
+        url: https://sourceforge.net/projects/phpvirtualbox/files/phpvirtualbox-5.0-5.zip
+        dest: /home/abhi/phpvirtualbox-5.0-5.zip
+        remote_src: True
+
+    - name: Changing file permissions
+      file: 
+        path: /var/www/html/
+        mode: 0777
+      become: yes
+       
+    - name: Unzipping phpvirtualbox files to /var/www/html    
+      unarchive:
+        src: /home/abhi/phpvirtualbox-5.0-5.zip
+        dest: /var/www/html/
+        remote_src: True
+      become: yes
+
+    - name: Copying files
+      become: yes
+      copy:
+        src: /var/www/html/phpvirtualbox-5.0-5/config.php-example
+        dest: /var/www/html/phpvirtualbox-5.0-5/config.php
+        remote_src: True
+
+    - name: Changing Username and password for phpvirtualbox
+      replace: 
+        path: /var/www/html/phpvirtualbox-5.0-5/config.php
+        regexp: 'vbox' 
+        replace: 'abhi'
+      become: yes
+
+    - replace:
+        path: /var/www/html/phpvirtualbox-5.0-5/config.php
+        regexp: "\'pass\'"
+        replace: "'abhi'"
+      become: yes
+
+    - replace:
+        path: /var/www/html/phpvirtualbox-5.0-5/config.php
+        regexp: "1270..0.1"
+        replace: "localhost"
+      become: yes
+
+    - lineinfile: 
+        path: /etc/default/virtualbox 
+        line: 'VBOXWEB_USER=abhi'
+        remote_src: yes
+      become: yes
+  
+    - service:
+        name: vboxweb
+        state: restarted
+      become: yes
+
+    - service:
+        name: vboxdrv
+        state: restarted
+      become: yes
+
+    - service:
+        name: apache2
+        state: restarted
+      become: yes       
+
+    - name: Install Vagrant
+      apt: pkg=vagrant state=present 
+      become: yes
+
+    - name: download iso file for running vm using phPvirtualbox
+      get_url:
+        url: http://releases.ubuntu.com/16.04/ubuntu-16.04.3-server-i386.iso
+        dest: /home/abhi/ubuntu-16.04.3-server-i386.iso
+        remote_src: True
+
+    - name: Checking if vagrantfile is presen
+      stat: path=/home/abhi/Vagrantfile
+      register: st
+      
+    - name: Install VM using Vagrant
+      shell: vagrant init ubuntu/trusty32
+      when: not st.stat.exists
+
+    - command: vagrant up

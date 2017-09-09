@@ -1,0 +1,3 @@
+[Ubuntu]
+
+192.168.122.253 ansible_user=abhi ansible_ssh_pass=abhi 
