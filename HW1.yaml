@@ -95,7 +95,7 @@
 
     - replace:
         path: /var/www/html/phpvirtualbox-5.0-5/config.php
-        regexp: "1270..0.1"
+        regexp: "127.0.0.1"
         replace: "localhost"
       become: yes
 
