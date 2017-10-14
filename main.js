@@ -14,7 +14,7 @@ function main()
 
 	if( args.length == 0 )
 	{
-		args = ["mystery.js"];
+		args = ["subject.js"];
 	}
 	var filePath = args[0];
 
@@ -109,7 +109,7 @@ function fillParams(constraints,params,property)
 function generateTestCases()
 {
 
-	var content = "var mystery = require('./mystery.js')\nvar mock = require('mock-fs');\n";
+	var content = "var subject = require('./subject.js')\nvar mock = require('mock-fs');\n";
 	for ( var funcName in functionConstraints )
 	{
 
@@ -174,7 +174,7 @@ function generateTestCases()
 		else
 		{
 			// Emit simple test case.
-			content += "mystery.{0}({1});\n".format(funcName, args );
+			content += "subject.{0}({1});\n".format(funcName, args );
 		}
 		}
 
@@ -203,7 +203,7 @@ function generateMockFsTestCases (pathExists,fileWithContent,funcName,args)
 	testCase += 
 	"mock("+JSON.stringify(mergedFS)+");\n";
 
-	testCase += "\tmystery.{0}({1});\n".format(funcName, args );
+	testCase += "\tsubject.{0}({1});\n".format(funcName, args );
 	testCase+="mock.restore();\n";
 	return testCase;
 }
