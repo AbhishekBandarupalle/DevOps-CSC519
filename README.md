@@ -1,1 +1,9 @@
-![Coverage](../coverage.png?raw=true "Screenshot of HTML Page")
+# HW2
+
+## Screenshot of Subject.js.html
+
+![Screenshot of Subject.js.html](https://github.ncsu.edu/abandar/HW2/master/coverage.png)
+
+
+## TestGeneration
+main.js is used to create test.js against subject.js 
