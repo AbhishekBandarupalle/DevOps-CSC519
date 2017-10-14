@@ -1,3 +1,1 @@
-Screen shot of HTML Page:
-
-<img src="../coverage.png>
+![Coverage](../coverage.png?raw=true "Screenshot of HTML Page")
