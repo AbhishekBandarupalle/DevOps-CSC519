@@ -2,7 +2,7 @@
 
 ## Screenshot of Subject.js.html
 
-![Screenshot of Subject.js.html](https://github.ncsu.edu/abandar/HW2/master/coverage.png)
+![Screenshot of Subject.js.html](https://github.ncsu.edu/abandar/HW2/blob/master/coverage.png)
 
 
 ## TestGeneration
