@@ -56,7 +56,7 @@ function get_line(filename, line_no, callback) {
       throw new Error('File end reached without finding line');
     }
 
-    callback(null, lines[+line_no]);
+    callback(null, lines[line_no-1]);
 }
 
  app.post('/upload',[ multer({ dest: './uploads/'}), function(req, res){
