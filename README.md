@@ -40,4 +40,5 @@ Operation Toggles are used to control the operational aspects of a system’s be
 - **Proxy Server** helps speed up applications. A Proxy server creates requests to the application server and the application server delivers content to the Proxy Server at high speeds. The application server wouldn't need to interact with clients and wait for their responses, thus reducing any latency in request handling.
 
 ### Youtube link to the Screencast:
-		
+
+https://youtu.be/CadL7Jzzs0E
