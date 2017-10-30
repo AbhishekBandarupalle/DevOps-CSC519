@@ -23,6 +23,7 @@ Improper implementation of feature flags may lead to random and unpredicatble re
 - Resiliency: If the environment at one of the zones is polluted, say, a corrupt cache, different zone available where there is no cache corruption issue would keep the application available to users all the time.
 
 **3. Describe the Circuit Breaker pattern and its relation to operation toggles.**
+
 Software systems make remote calls to processes running on different machines across a network. Remote calls can fail or wait for a response till timeout When the system is experiencing peak load, such unresponsive calls from multiple calls can lead to simultaneous failures across the system leading to depletion of critical resources.
 A circuit breaker pattern prevents this by wrapping such calls in a circuit breaker object. The circuit breaker object monitors for failures and when the failures exceed a certain threshold, all subsequent calls are returned with an error without the actual call being made. The underlying calls can be checked for success and if they succeed, the circuit breaker is reset and resumes it’s normal operation.
 
