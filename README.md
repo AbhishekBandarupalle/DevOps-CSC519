@@ -6,6 +6,7 @@ Understanding the basic building blocks that form complex infrastructure is an i
 ### Conceptual Questions
 
 **1. Describe some benefits and issues related to using Feature Flags.**
+
 	**Benefits:**
 	Feature flags eliminate the cost of maintaining and supporting branches with very long lifespan.
 	Eliminates merge conflicts.
@@ -16,12 +17,13 @@ Understanding the basic building blocks that form complex infrastructure is an i
 	Improper implementation of feature flags may lead to random and unpredicatble results in the production environment.
 	
 **2. What are some reasons for keeping servers in seperate availability zones?**
+
 	- Redundancy: in case of outage or failure. If there is a power outage in a particular zone, having a redundant server in a separate availability zone ensures that the system is available for users.
 	- Isolation: Allows for having an isolated production zone to deploy a new feature and  route requests between the separate availability zones. 
 	- Resiliency: If the environment at one of the zones is polluted, say, a corrupt cache, different zone available where there is no cache corruption issue would keep the application available to users all the time.
 
 **3. Describe the Circuit Breaker pattern and its relation to operation toggles.**
-	 Software systems make remote calls to processes running on different machines across a network. Remote calls can fail or wait for a response till timeout When the system is experiencing peak load, such unresponsive calls from multiple calls can lead to simultaneous failures across the system leading to depletion of critical resources.
+	Software systems make remote calls to processes running on different machines across a network. Remote calls can fail or wait for a response till timeout When the system is experiencing peak load, such unresponsive calls from multiple calls can lead to simultaneous failures across the system leading to depletion of critical resources.
 	A circuit breaker pattern prevents this by wrapping such calls in a circuit breaker object. The circuit breaker object monitors for failures and when the failures exceed a certain threshold, all subsequent calls are returned with an error without the actual call being made. The underlying calls can be checked for success and if they succeed, the circuit breaker is reset and resumes it’s normal operation.
 
 	Operation Toggles are used to control the operational aspects of a system’s behavior. When a feature has unclear performance implications, operators need the control to disable such features in production. Ops Toggles provide this control to developers so that they could stop the code with random and undpredicatble results from being executed in the production environment. Ops Toggles usually have a short lifespan but can consume an ample amount of resources and might require to be shut down during peak load.
