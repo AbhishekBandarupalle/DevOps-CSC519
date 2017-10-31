@@ -12,6 +12,7 @@ Feature flags eliminate the cost of maintaining and supporting branches with ver
 Eliminates merge conflicts.
 Reduces deployment risk through incremental release strategies. 
 Enables a user to release a new feature to a set of users and check/test the new code feature before releasing it to the rest of the user base. It also provides the functionality to turn off the new feature, in case any issue occurs.(Dark/Shadow launch). Thus enabling faster release of new code to prodution environments.
+
 **Issues:**
 Feature flags are expensive and cost the company too much if they are in the code for too long. Also, testing the application gets complicated with more number of options being added to the code.
 Improper implementation of feature flags may lead to random and unpredicatble results in the production environment.
