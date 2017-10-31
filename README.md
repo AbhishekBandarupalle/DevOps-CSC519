@@ -19,9 +19,9 @@ Improper implementation of feature flags may lead to random and unpredicatble re
 	
 **2. What are some reasons for keeping servers in seperate availability zones?**
 
-- Redundancy: in case of outage or failure. If there is a power outage in a particular zone, having a redundant server in a separate availability zone ensures that the system is available for users.
-- Isolation: Allows for having an isolated production zone to deploy a new feature and  route requests between the separate availability zones. 
-- Resiliency: If the environment at one of the zones is polluted, say, a corrupt cache, different zone available where there is no cache corruption issue would keep the application available to users all the time.
+- **Redundancy**: in case of outage or failure. If there is a power outage in a particular zone, having a redundant server in a separate availability zone ensures that the system is available for users.
+- **Isolation**: Allows for having an isolated production zone to deploy a new feature and  route requests between the separate availability zones. 
+- **Resiliency**: If the environment at one of the zones is polluted, say, a corrupt cache, different zone available where there is no cache corruption issue would keep the application available to users all the time.
 
 **3. Describe the Circuit Breaker pattern and its relation to operation toggles.**
 
