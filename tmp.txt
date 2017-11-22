@@ -1,407 +1,407 @@
 Example app listening at http://:::3000
 /gateway
-54.49494965165791 'number less than 99, so redirecting to /api'
+99.83914437947415 'number more than 99.5, so redirecting to /apiexp'
 /gateway
-31.700725623206228 'number less than 99, so redirecting to /api'
+95.93682628327778 'number less than 99, so redirecting to /api'
 /gateway
-99.00960653620379 'number between 99-99.5, so redirecting to /apicontrol'
+5.9564824527582605 'number less than 99, so redirecting to /api'
 /gateway
-18.424993535522493 'number less than 99, so redirecting to /api'
+20.15837012211086 'number less than 99, so redirecting to /api'
 /gateway
-75.48035442812497 'number less than 99, so redirecting to /api'
+63.87841107118213 'number less than 99, so redirecting to /api'
 /gateway
-31.774422556845884 'number less than 99, so redirecting to /api'
+36.85764128634745 'number less than 99, so redirecting to /api'
 /gateway
-7.351177825313715 'number less than 99, so redirecting to /api'
+78.56741765587627 'number less than 99, so redirecting to /api'
 /gateway
-8.328906413772351 'number less than 99, so redirecting to /api'
+74.2604949304819 'number less than 99, so redirecting to /api'
 /gateway
-87.17174284244021 'number less than 99, so redirecting to /api'
+79.10689289287636 'number less than 99, so redirecting to /api'
 /gateway
-57.32946136730794 'number less than 99, so redirecting to /api'
+78.77809683425376 'number less than 99, so redirecting to /api'
 /gateway
-38.71575219876986 'number less than 99, so redirecting to /api'
+17.62384099784824 'number less than 99, so redirecting to /api'
 /gateway
-45.54133845160475 'number less than 99, so redirecting to /api'
+93.53231918171063 'number less than 99, so redirecting to /api'
 /gateway
-2.028011870388502 'number less than 99, so redirecting to /api'
+83.47547133211086 'number less than 99, so redirecting to /api'
 /gateway
-3.975254423190111 'number less than 99, so redirecting to /api'
+34.50865940331922 'number less than 99, so redirecting to /api'
 /gateway
-43.29660788169634 'number less than 99, so redirecting to /api'
+16.317348252784814 'number less than 99, so redirecting to /api'
 /gateway
-41.48224702749326 'number less than 99, so redirecting to /api'
+53.90265073251091 'number less than 99, so redirecting to /api'
 /gateway
-5.859757550568978 'number less than 99, so redirecting to /api'
+30.23324072851348 'number less than 99, so redirecting to /api'
 /gateway
-28.878788475978247 'number less than 99, so redirecting to /api'
+12.346077413639334 'number less than 99, so redirecting to /api'
 /gateway
-37.92960972857633 'number less than 99, so redirecting to /api'
+40.69270366860338 'number less than 99, so redirecting to /api'
 /gateway
-3.4809269150337885 'number less than 99, so redirecting to /api'
+33.07429446547789 'number less than 99, so redirecting to /api'
 /gateway
-73.10590511564567 'number less than 99, so redirecting to /api'
+55.35371754697784 'number less than 99, so redirecting to /api'
 /gateway
-62.33110477397954 'number less than 99, so redirecting to /api'
+15.01086013330033 'number less than 99, so redirecting to /api'
 /gateway
-97.52734822398013 'number less than 99, so redirecting to /api'
+76.54840602771138 'number less than 99, so redirecting to /api'
 /gateway
-51.92225773220702 'number less than 99, so redirecting to /api'
+16.68298911181867 'number less than 99, so redirecting to /api'
 /gateway
-16.498605714992575 'number less than 99, so redirecting to /api'
+42.523766525783266 'number less than 99, so redirecting to /api'
 /gateway
-90.06932078948202 'number less than 99, so redirecting to /api'
+97.2947036593649 'number less than 99, so redirecting to /api'
 /gateway
-65.16448152754684 'number less than 99, so redirecting to /api'
+41.81665328541393 'number less than 99, so redirecting to /api'
 /gateway
-58.33186004543731 'number less than 99, so redirecting to /api'
+16.516032351050214 'number less than 99, so redirecting to /api'
 /gateway
-53.990979264805695 'number less than 99, so redirecting to /api'
+58.26650377650484 'number less than 99, so redirecting to /api'
 /gateway
-43.818992159138645 'number less than 99, so redirecting to /api'
+0.3358981965980279 'number less than 99, so redirecting to /api'
 /gateway
-85.93822662104793 'number less than 99, so redirecting to /api'
+74.37653157017732 'number less than 99, so redirecting to /api'
 /gateway
-61.25879323743955 'number less than 99, so redirecting to /api'
+19.379287368210683 'number less than 99, so redirecting to /api'
 /gateway
-37.6385405009517 'number less than 99, so redirecting to /api'
+22.139510399381646 'number less than 99, so redirecting to /api'
 /gateway
-13.3098882152056 'number less than 99, so redirecting to /api'
+93.96669438088203 'number less than 99, so redirecting to /api'
 /gateway
-37.57574092145186 'number less than 99, so redirecting to /api'
+12.265139158619931 'number less than 99, so redirecting to /api'
 /gateway
-14.398120399793534 'number less than 99, so redirecting to /api'
+58.008204381857894 'number less than 99, so redirecting to /api'
 /gateway
-90.604127566534 'number less than 99, so redirecting to /api'
+1.5777060327305081 'number less than 99, so redirecting to /api'
 /gateway
-63.034663935961 'number less than 99, so redirecting to /api'
+1.3906412881298014 'number less than 99, so redirecting to /api'
 /gateway
-12.173937231372967 'number less than 99, so redirecting to /api'
+89.0761511722997 'number less than 99, so redirecting to /api'
 /gateway
-13.934059133811783 'number less than 99, so redirecting to /api'
+11.841371748308882 'number less than 99, so redirecting to /api'
 /gateway
-77.56473104668935 'number less than 99, so redirecting to /api'
+21.97637570999835 'number less than 99, so redirecting to /api'
 /gateway
-96.07346285155805 'number less than 99, so redirecting to /api'
+60.35129409595397 'number less than 99, so redirecting to /api'
 /gateway
-71.05035195041948 'number less than 99, so redirecting to /api'
+91.66678808433966 'number less than 99, so redirecting to /api'
 /gateway
-44.19321621827568 'number less than 99, so redirecting to /api'
+49.28022211421344 'number less than 99, so redirecting to /api'
 /gateway
-25.991266692439186 'number less than 99, so redirecting to /api'
+67.19921350524424 'number less than 99, so redirecting to /api'
 /gateway
-76.27099817635367 'number less than 99, so redirecting to /api'
+10.465597083978606 'number less than 99, so redirecting to /api'
 /gateway
-50.239718167539316 'number less than 99, so redirecting to /api'
+39.87777223827524 'number less than 99, so redirecting to /api'
 /gateway
-87.63024706561875 'number less than 99, so redirecting to /api'
+22.07852684563769 'number less than 99, so redirecting to /api'
 /gateway
-35.76782946347321 'number less than 99, so redirecting to /api'
+95.76516583941894 'number less than 99, so redirecting to /api'
 /gateway
-12.642754082636042 'number less than 99, so redirecting to /api'
+52.10727682329799 'number less than 99, so redirecting to /api'
 /gateway
-77.82288741172307 'number less than 99, so redirecting to /api'
+23.11874865985677 'number less than 99, so redirecting to /api'
 /gateway
-37.777480091476235 'number less than 99, so redirecting to /api'
+48.158451697837656 'number less than 99, so redirecting to /api'
 /gateway
-59.12230017108744 'number less than 99, so redirecting to /api'
+99.07642909642549 'number between 99-99.5, so redirecting to /apicontrol'
 /gateway
-16.529933819015376 'number less than 99, so redirecting to /api'
+38.73826413617649 'number less than 99, so redirecting to /api'
 /gateway
-88.20792196028984 'number less than 99, so redirecting to /api'
+32.40744258846679 'number less than 99, so redirecting to /api'
 /gateway
-33.2585407598621 'number less than 99, so redirecting to /api'
+14.363767623947377 'number less than 99, so redirecting to /api'
 /gateway
-98.59284814751639 'number less than 99, so redirecting to /api'
+45.4893007675907 'number less than 99, so redirecting to /api'
 /gateway
-84.32033929657312 'number less than 99, so redirecting to /api'
+90.06736997042388 'number less than 99, so redirecting to /api'
 /gateway
-53.69717105133318 'number less than 99, so redirecting to /api'
+73.96187729193385 'number less than 99, so redirecting to /api'
 /gateway
-53.488013849873425 'number less than 99, so redirecting to /api'
+8.179059764046649 'number less than 99, so redirecting to /api'
 /gateway
-99.75342745942604 'number more than 99.5, so redirecting to /apiexp'
+10.672584649901573 'number less than 99, so redirecting to /api'
 /gateway
-70.93679598803351 'number less than 99, so redirecting to /api'
+38.435004524116614 'number less than 99, so redirecting to /api'
 /gateway
-78.53125125926881 'number less than 99, so redirecting to /api'
+78.21304201662527 'number less than 99, so redirecting to /api'
 /gateway
-54.90757923004765 'number less than 99, so redirecting to /api'
+26.85336922377346 'number less than 99, so redirecting to /api'
 /gateway
-48.68429111498964 'number less than 99, so redirecting to /api'
+79.65572709405124 'number less than 99, so redirecting to /api'
 /gateway
-78.54032935217326 'number less than 99, so redirecting to /api'
+80.9872227417789 'number less than 99, so redirecting to /api'
 /gateway
-91.11395465086906 'number less than 99, so redirecting to /api'
+32.89097329928548 'number less than 99, so redirecting to /api'
 /gateway
-86.33777935050591 'number less than 99, so redirecting to /api'
+90.28392278415566 'number less than 99, so redirecting to /api'
 /gateway
-84.83402634989683 'number less than 99, so redirecting to /api'
+86.51892303641762 'number less than 99, so redirecting to /api'
 /gateway
-78.52195246881588 'number less than 99, so redirecting to /api'
+41.67799376082246 'number less than 99, so redirecting to /api'
 /gateway
-90.75468883180517 'number less than 99, so redirecting to /api'
+18.345002532841658 'number less than 99, so redirecting to /api'
 /gateway
-61.107593825086326 'number less than 99, so redirecting to /api'
+79.91310323235965 'number less than 99, so redirecting to /api'
 /gateway
-36.142904932462905 'number less than 99, so redirecting to /api'
+46.253116089122436 'number less than 99, so redirecting to /api'
 /gateway
-81.66330642188822 'number less than 99, so redirecting to /api'
+90.08239693960059 'number less than 99, so redirecting to /api'
 /gateway
-63.29596863861886 'number less than 99, so redirecting to /api'
+61.319114019345065 'number less than 99, so redirecting to /api'
 /gateway
-85.03648090047051 'number less than 99, so redirecting to /api'
+36.78427537691755 'number less than 99, so redirecting to /api'
 /gateway
-35.217516590738285 'number less than 99, so redirecting to /api'
+80.53381426815878 'number less than 99, so redirecting to /api'
 /gateway
-88.65457397739986 'number less than 99, so redirecting to /api'
+50.20842350148502 'number less than 99, so redirecting to /api'
 /gateway
-93.49410414859796 'number less than 99, so redirecting to /api'
+11.533958429091173 'number less than 99, so redirecting to /api'
 /gateway
-90.01370999748137 'number less than 99, so redirecting to /api'
+74.60015531989936 'number less than 99, so redirecting to /api'
 /gateway
-0.27890396466498935 'number less than 99, so redirecting to /api'
+62.00616324938755 'number less than 99, so redirecting to /api'
 /gateway
-77.57988387546828 'number less than 99, so redirecting to /api'
+94.71574882900808 'number less than 99, so redirecting to /api'
 /gateway
-69.65462453966703 'number less than 99, so redirecting to /api'
+85.89667113244981 'number less than 99, so redirecting to /api'
 /gateway
-30.338626681588643 'number less than 99, so redirecting to /api'
+35.126630261961324 'number less than 99, so redirecting to /api'
 /gateway
-8.827978863350339 'number less than 99, so redirecting to /api'
+73.20972398401797 'number less than 99, so redirecting to /api'
 /gateway
-91.02940699185535 'number less than 99, so redirecting to /api'
+14.60243654056188 'number less than 99, so redirecting to /api'
 /gateway
-13.722506767768206 'number less than 99, so redirecting to /api'
+83.69873326108879 'number less than 99, so redirecting to /api'
 /gateway
-61.002276623535565 'number less than 99, so redirecting to /api'
+6.158910655085492 'number less than 99, so redirecting to /api'
 /gateway
-60.66897055365765 'number less than 99, so redirecting to /api'
+31.29408259582447 'number less than 99, so redirecting to /api'
 /gateway
-82.22349058987241 'number less than 99, so redirecting to /api'
+11.121561174358586 'number less than 99, so redirecting to /api'
 /gateway
-30.56926743640225 'number less than 99, so redirecting to /api'
+12.168159893314566 'number less than 99, so redirecting to /api'
 /gateway
-60.62300339235425 'number less than 99, so redirecting to /api'
+51.91780911778403 'number less than 99, so redirecting to /api'
 /gateway
-63.45759527343737 'number less than 99, so redirecting to /api'
+92.75594240308732 'number less than 99, so redirecting to /api'
 /gateway
-89.11868803648744 'number less than 99, so redirecting to /api'
+31.280363910747777 'number less than 99, so redirecting to /api'
 /gateway
-68.03088707625456 'number less than 99, so redirecting to /api'
+58.60368850622191 'number less than 99, so redirecting to /api'
 /gateway
-90.58619878271456 'number less than 99, so redirecting to /api'
+18.68030946582666 'number less than 99, so redirecting to /api'
 /gateway
-54.00704377741108 'number less than 99, so redirecting to /api'
+45.41181366631346 'number less than 99, so redirecting to /api'
 /gateway
-26.59121001767122 'number less than 99, so redirecting to /api'
+20.853852807132366 'number less than 99, so redirecting to /api'
 /gateway
-79.00483518244667 'number less than 99, so redirecting to /api'
+6.8835510431041635 'number less than 99, so redirecting to /api'
 /gateway
-68.35586010003105 'number less than 99, so redirecting to /api'
+44.010068210607976 'number less than 99, so redirecting to /api'
 /gateway
-70.25687174273942 'number less than 99, so redirecting to /api'
+64.03554432937715 'number less than 99, so redirecting to /api'
 /gateway
-65.67402336000552 'number less than 99, so redirecting to /api'
+74.14240460496711 'number less than 99, so redirecting to /api'
 /gateway
-70.27133982561648 'number less than 99, so redirecting to /api'
+0.026656005186898035 'number less than 99, so redirecting to /api'
 /gateway
-77.96558404772054 'number less than 99, so redirecting to /api'
+77.01917292015865 'number less than 99, so redirecting to /api'
 /gateway
-19.06234119473085 'number less than 99, so redirecting to /api'
+81.61289629103936 'number less than 99, so redirecting to /api'
 /gateway
-79.53535748518532 'number less than 99, so redirecting to /api'
+31.130507744520063 'number less than 99, so redirecting to /api'
 /gateway
-46.01169969076149 'number less than 99, so redirecting to /api'
+47.77432747970107 'number less than 99, so redirecting to /api'
 /gateway
-93.07782350707474 'number less than 99, so redirecting to /api'
+28.290532683025525 'number less than 99, so redirecting to /api'
 /gateway
-83.63180909921108 'number less than 99, so redirecting to /api'
+14.099396459613 'number less than 99, so redirecting to /api'
 /gateway
-46.22529399952611 'number less than 99, so redirecting to /api'
+38.35305629249379 'number less than 99, so redirecting to /api'
 /gateway
-31.78645771171853 'number less than 99, so redirecting to /api'
+4.034815178094209 'number less than 99, so redirecting to /api'
 /gateway
-42.427083061148686 'number less than 99, so redirecting to /api'
+70.81289354192705 'number less than 99, so redirecting to /api'
 /gateway
-44.02645314492324 'number less than 99, so redirecting to /api'
+55.7374582123809 'number less than 99, so redirecting to /api'
 /gateway
-82.73322635911089 'number less than 99, so redirecting to /api'
+98.58758258611373 'number less than 99, so redirecting to /api'
 /gateway
-69.68964098086457 'number less than 99, so redirecting to /api'
+87.30053392585337 'number less than 99, so redirecting to /api'
 /gateway
-37.26552123629669 'number less than 99, so redirecting to /api'
+56.86727226685513 'number less than 99, so redirecting to /api'
 /gateway
-21.427604098156138 'number less than 99, so redirecting to /api'
+0.9252017799560752 'number less than 99, so redirecting to /api'
 /gateway
-93.68394564917224 'number less than 99, so redirecting to /api'
+34.47249034725297 'number less than 99, so redirecting to /api'
 /gateway
-96.72647411281254 'number less than 99, so redirecting to /api'
+86.24207412695823 'number less than 99, so redirecting to /api'
 /gateway
-47.31734334755971 'number less than 99, so redirecting to /api'
+2.7295411390844793 'number less than 99, so redirecting to /api'
 /gateway
-38.37777543455152 'number less than 99, so redirecting to /api'
+41.38432455138168 'number less than 99, so redirecting to /api'
 /gateway
-14.364794277814251 'number less than 99, so redirecting to /api'
+64.03724278578355 'number less than 99, so redirecting to /api'
 /gateway
-48.173883987144904 'number less than 99, so redirecting to /api'
+29.027878689038666 'number less than 99, so redirecting to /api'
 /gateway
-82.25474933226464 'number less than 99, so redirecting to /api'
+74.62647963115703 'number less than 99, so redirecting to /api'
 /gateway
-48.248834185838696 'number less than 99, so redirecting to /api'
+57.43808100753562 'number less than 99, so redirecting to /api'
 /gateway
-20.013134756420104 'number less than 99, so redirecting to /api'
+91.85684780500314 'number less than 99, so redirecting to /api'
 /gateway
-26.371178812158448 'number less than 99, so redirecting to /api'
+72.60004132308326 'number less than 99, so redirecting to /api'
 /gateway
-86.22279511893456 'number less than 99, so redirecting to /api'
+68.4727206379898 'number less than 99, so redirecting to /api'
 /gateway
-21.280111319411922 'number less than 99, so redirecting to /api'
+69.2468004759346 'number less than 99, so redirecting to /api'
 /gateway
-86.77734746104619 'number less than 99, so redirecting to /api'
+3.41955372112952 'number less than 99, so redirecting to /api'
 /gateway
-56.98566246452677 'number less than 99, so redirecting to /api'
+14.58944295757938 'number less than 99, so redirecting to /api'
 /gateway
-79.00127231882541 'number less than 99, so redirecting to /api'
+48.6368580892675 'number less than 99, so redirecting to /api'
 /gateway
-26.254074623253665 'number less than 99, so redirecting to /api'
+67.18384809030742 'number less than 99, so redirecting to /api'
 /gateway
-10.815308872841412 'number less than 99, so redirecting to /api'
+14.731584755369266 'number less than 99, so redirecting to /api'
 /gateway
-7.061947615239994 'number less than 99, so redirecting to /api'
+85.10441625869191 'number less than 99, so redirecting to /api'
 /gateway
-66.79302683351848 'number less than 99, so redirecting to /api'
+38.33700039949364 'number less than 99, so redirecting to /api'
 /gateway
-97.8306099587377 'number less than 99, so redirecting to /api'
+95.20042344438973 'number less than 99, so redirecting to /api'
 /gateway
-70.05937833451942 'number less than 99, so redirecting to /api'
+75.20805806800138 'number less than 99, so redirecting to /api'
 /gateway
-41.314312081562576 'number less than 99, so redirecting to /api'
+42.485527592509634 'number less than 99, so redirecting to /api'
 /gateway
-50.29552344723092 'number less than 99, so redirecting to /api'
+11.425396263614873 'number less than 99, so redirecting to /api'
 /gateway
-12.763404446731341 'number less than 99, so redirecting to /api'
+4.719917780826877 'number less than 99, so redirecting to /api'
 /gateway
-87.33855167021038 'number less than 99, so redirecting to /api'
+91.04013354993916 'number less than 99, so redirecting to /api'
 /gateway
-86.68784055238933 'number less than 99, so redirecting to /api'
+44.09726379567267 'number less than 99, so redirecting to /api'
 /gateway
-37.78759681851118 'number less than 99, so redirecting to /api'
+18.503133418035176 'number less than 99, so redirecting to /api'
 /gateway
-87.72999478358923 'number less than 99, so redirecting to /api'
+99.22545121310786 'number between 99-99.5, so redirecting to /apicontrol'
 /gateway
-2.351781258042984 'number less than 99, so redirecting to /api'
+86.24704828752996 'number less than 99, so redirecting to /api'
 /gateway
-25.700105442299037 'number less than 99, so redirecting to /api'
+98.80224587339373 'number less than 99, so redirecting to /api'
 /gateway
-82.62126931700035 'number less than 99, so redirecting to /api'
+43.4698667138065 'number less than 99, so redirecting to /api'
 /gateway
-49.082719609396634 'number less than 99, so redirecting to /api'
+30.38998012148353 'number less than 99, so redirecting to /api'
 /gateway
-73.5875000813796 'number less than 99, so redirecting to /api'
+87.9551637856948 'number less than 99, so redirecting to /api'
 /gateway
-69.58075826066658 'number less than 99, so redirecting to /api'
+96.42593098181808 'number less than 99, so redirecting to /api'
 /gateway
-59.07160208958984 'number less than 99, so redirecting to /api'
+35.49972465304687 'number less than 99, so redirecting to /api'
 /gateway
-44.0422241236657 'number less than 99, so redirecting to /api'
+0.5363894227895072 'number less than 99, so redirecting to /api'
 /gateway
-63.2280733165157 'number less than 99, so redirecting to /api'
+13.527912302355261 'number less than 99, so redirecting to /api'
 /gateway
-19.693994743241426 'number less than 99, so redirecting to /api'
+89.41377714752552 'number less than 99, so redirecting to /api'
 /gateway
-12.935621481511173 'number less than 99, so redirecting to /api'
+97.1154126777068 'number less than 99, so redirecting to /api'
 /gateway
-92.6366924719152 'number less than 99, so redirecting to /api'
+97.57847940539672 'number less than 99, so redirecting to /api'
 /gateway
-68.56112322192811 'number less than 99, so redirecting to /api'
+94.69612782992183 'number less than 99, so redirecting to /api'
 /gateway
-16.515682171168923 'number less than 99, so redirecting to /api'
+25.25893131855115 'number less than 99, so redirecting to /api'
 /gateway
-50.10511754046727 'number less than 99, so redirecting to /api'
+13.544222024337959 'number less than 99, so redirecting to /api'
 /gateway
-30.603373534047318 'number less than 99, so redirecting to /api'
+41.88984881636488 'number less than 99, so redirecting to /api'
 /gateway
-34.66097681126592 'number less than 99, so redirecting to /api'
+73.83976787388815 'number less than 99, so redirecting to /api'
 /gateway
-78.33473377688559 'number less than 99, so redirecting to /api'
+68.9034356689938 'number less than 99, so redirecting to /api'
 /gateway
-43.65680231787243 'number less than 99, so redirecting to /api'
+26.430991904195643 'number less than 99, so redirecting to /api'
 /gateway
-25.44227307103948 'number less than 99, so redirecting to /api'
+96.84513936740913 'number less than 99, so redirecting to /api'
 /gateway
-36.64434499031828 'number less than 99, so redirecting to /api'
+97.31667958315944 'number less than 99, so redirecting to /api'
 /gateway
-61.082321641784134 'number less than 99, so redirecting to /api'
+23.929855066475604 'number less than 99, so redirecting to /api'
 /gateway
-39.40866108507317 'number less than 99, so redirecting to /api'
+5.794056906631728 'number less than 99, so redirecting to /api'
 /gateway
-39.81996301741615 'number less than 99, so redirecting to /api'
+9.69066294528309 'number less than 99, so redirecting to /api'
 /gateway
-24.854829646749298 'number less than 99, so redirecting to /api'
+61.28621512841854 'number less than 99, so redirecting to /api'
 /gateway
-68.1855397183968 'number less than 99, so redirecting to /api'
+16.25628621471722 'number less than 99, so redirecting to /api'
 /gateway
-44.176816873667036 'number less than 99, so redirecting to /api'
+42.7338077902784 'number less than 99, so redirecting to /api'
 /gateway
-78.44224991684116 'number less than 99, so redirecting to /api'
+94.57549084304972 'number less than 99, so redirecting to /api'
 /gateway
-43.19682252993147 'number less than 99, so redirecting to /api'
+5.6372922464244635 'number less than 99, so redirecting to /api'
 /gateway
-59.04818705791233 'number less than 99, so redirecting to /api'
+93.24047346527652 'number less than 99, so redirecting to /api'
 /gateway
-42.14219175574805 'number less than 99, so redirecting to /api'
+86.76790006595031 'number less than 99, so redirecting to /api'
 /gateway
-70.87540763677889 'number less than 99, so redirecting to /api'
+52.30339356582905 'number less than 99, so redirecting to /api'
 /gateway
-45.601641096964315 'number less than 99, so redirecting to /api'
+65.3645037997364 'number less than 99, so redirecting to /api'
 /gateway
-56.166671734483685 'number less than 99, so redirecting to /api'
+75.03828559755046 'number less than 99, so redirecting to /api'
 /gateway
-89.37209072747608 'number less than 99, so redirecting to /api'
+68.66567047986818 'number less than 99, so redirecting to /api'
 /gateway
-80.71618039822405 'number less than 99, so redirecting to /api'
+76.76116450889168 'number less than 99, so redirecting to /api'
 /gateway
-79.61362831742913 'number less than 99, so redirecting to /api'
+31.262489937379655 'number less than 99, so redirecting to /api'
 /gateway
-45.19158020117822 'number less than 99, so redirecting to /api'
+27.800992032627292 'number less than 99, so redirecting to /api'
 /gateway
-62.406099792247986 'number less than 99, so redirecting to /api'
+69.34055992858403 'number less than 99, so redirecting to /api'
 /gateway
-80.3900612650496 'number less than 99, so redirecting to /api'
+60.943778602489694 'number less than 99, so redirecting to /api'
 /gateway
-73.31861756993408 'number less than 99, so redirecting to /api'
+89.38103909993296 'number less than 99, so redirecting to /api'
 /gateway
-63.4890835710944 'number less than 99, so redirecting to /api'
+21.12754861619863 'number less than 99, so redirecting to /api'
 /gateway
-83.7917808852288 'number less than 99, so redirecting to /api'
+74.41424044655123 'number less than 99, so redirecting to /api'
 /gateway
-97.48755743069924 'number less than 99, so redirecting to /api'
+62.480353088574894 'number less than 99, so redirecting to /api'
 /gateway
-69.89375890423577 'number less than 99, so redirecting to /api'
+56.914103158755424 'number less than 99, so redirecting to /api'
 /gateway
-77.04327049444606 'number less than 99, so redirecting to /api'
+71.41976654300973 'number less than 99, so redirecting to /api'
 /gateway
-4.571545178984748 'number less than 99, so redirecting to /api'
+4.63901674102396 'number less than 99, so redirecting to /api'
 /gateway
-46.78532991382269 'number less than 99, so redirecting to /api'
+7.312181755082237 'number less than 99, so redirecting to /api'
 /gateway
-79.7800108657309 'number less than 99, so redirecting to /api'
+22.205456460041884 'number less than 99, so redirecting to /api'
 /gateway
-89.67642165662882 'number less than 99, so redirecting to /api'
+91.42292452393089 'number less than 99, so redirecting to /api'
 /gateway
-34.168256421111856 'number less than 99, so redirecting to /api'
+23.43089016451707 'number less than 99, so redirecting to /api'
 /gateway
-81.95528542815786 'number less than 99, so redirecting to /api'
+55.74312481618517 'number less than 99, so redirecting to /api'
 /gateway
-64.33868946756311 'number less than 99, so redirecting to /api'
+93.6622754709847 'number less than 99, so redirecting to /api'
 /gateway
-6.986096384431129 'number less than 99, so redirecting to /api'
+57.041354947211516 'number less than 99, so redirecting to /api'
 /gateway
-52.68297280690666 'number less than 99, so redirecting to /api'
+54.05707145877172 'number less than 99, so redirecting to /api'
 /gateway
-59.491099703644636 'number less than 99, so redirecting to /api'
+99.27638743884772 'number between 99-99.5, so redirecting to /apicontrol'
 /gateway
-22.922138061777186 'number less than 99, so redirecting to /api'
+44.452309600985004 'number less than 99, so redirecting to /api'
 /gateway
-98.90403324040588 'number less than 99, so redirecting to /api'
+42.56955286375186 'number less than 99, so redirecting to /api'

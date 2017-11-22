@@ -1,5 +1,6 @@
 var express = require('express')
 var app = express()
+var urlExists = require('url-exists');
 
 app.get('/gateway', function(req, res) {
 console.log(req.url)
@@ -31,9 +32,16 @@ else
 }
 });
 
-app.get('/api', function(req, res) {
-  res.redirect('http://localhost:5000/ratings')
-})
+app.get('/api', function(req, res) 
+{
+  urlExists('http://localhost:5000/ratings', function(err, exists) 
+  {
+  if(exists == true)
+    res.redirect('http://localhost:5000/ratings') 
+  else
+    res.redirect('http://localhost:3000/apiexp')
+  });
+});
 
 app.get('/apicontrol', function(req, res) 
   {
