@@ -26,4 +26,4 @@ The results are a summary of number of requests being redirected to each route w
 Also, it comments on how API server handles the requests, when the ratings server is down. - It basically sends 500 response code.
 Here is the screenshot of the results of test.sh:
 
-![Screenshot of test.sh](https://github.ncsu.edu/abandar/HW4/blob/master/test.png)
+![Screenshot of test.sh](https://github.ncsu.edu/abandar/HW4/blob/master/Screenshot%20of%20test.sh.png)
