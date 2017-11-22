@@ -1,0 +1,4475 @@
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /apicontrol
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 33
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:10 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /apiexp
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 29
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 500 Internal Server Error
+X-Powered-By: Express
+Content-Type: text/plain; charset=utf-8
+Content-Length: 21
+ETag: W/"15-/6VXivhc2MKdLfIkLcUE47K6aH0"
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:11 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:12 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:13 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:14 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /api
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 26
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: http://localhost:5000/ratings
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 51
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+content-type: text/html
+Date: Wed, 22 Nov 2017 03:35:15 GMT
+Connection: keep-alive
+
