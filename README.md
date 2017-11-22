@@ -1,6 +1,6 @@
 # HW4
 
-##TOPOLOGY:
+## TOPOLOGY:
 Two Express servers API and Ratings are running on localhosts and ports 3000 & 5000.
 
 API server has 4 routes:
@@ -24,4 +24,6 @@ The script analyzes the output of the 200 requests/response and prints a summary
 
 The results are a summary of number of requests being redirected to each route within the API server and the requests reaching the Ratings server.
 Also, it comments on how API server handles the requests, when the ratings server is down. - It basically sends 500 response code.
+Here is the screenshot of the results of test.sh:
 
+![Screenshot of test.sh](https://github.ncsu.edu/abandar/HW4/blob/master/test.png)
