@@ -22,6 +22,7 @@ Agent - An agent is the long running daemon on every member of the Consul cluste
 Client - A client is an agent that forwards all RPCs to a server. The client is relatively stateless. The only background activity a client performs is taking part in the LAN gossip pool. This has a minimal resource overhead and consumes only a small amount of network bandwidth.
 Server - A server is an agent with an expanded set of responsibilities including participating in the Raft quorum, maintaining cluster state, responding to RPC queries, exchanging WAN gossip with other datacenters, and forwarding queries to leaders or remote data centers.
 
+![Screenshot of consul.PNG.html](https://github.ncsu.edu/abandar/Tech-Talks/blob/master/consul.PNG)
 
 Now as with every distributed architecture it becomes necessary to communicate  between the different nodes. Consul uses a gossip protocol - Serf,  to manage cluster membership, failure detection, and general orchestration.
  Serf relies on TCP and UDP unicast. Broadcast and Multicast are rarely available in a multi-tenant or cloud network environment. For that reason, Consul and Serf were both designed to avoid any dependence on those capabilities.
