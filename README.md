@@ -48,36 +48,19 @@ With _Consul_, clients can check that a web server is returning 200 status codes
 Consul generally outperforms other service discovery tools like _Zookeeper_,_etcd_ and any other tools that offer a similar service in terms of ease of service discovery, failure detection and health checks, reducing the burden of application developers as compared to other service discovery tools.
  
 ## Below is a summary of the advantages of Consul over Zookeeper and Etcd. ##
- 
-Properties
-Consul
-Etcd
-Zoo Keeper
-User Interface
-Available
-          NO
-          NO
-RPC
-Available
-Available
-          NO
-Health Check
-HTTP API
-HTTP API
-TCP
-Key Value
-3 Consistency modes
-Good Consistency
-Strong Consistency
-Token System
-Available
-          NO
-          NO
-Language
-Golang
-Golang
-Java
- 
+
+| Properties     | Consul      | Etcd               | Zoo Keeper          |
+| -------------- | ----------- | ------------------ | ------------------- |
+| User Interface | Available   | NO                 | NO                  |
+| -------------- | ----------- | ------------------ | ------------------- |
+| RPC            | Available   | Available          | NO                  |
+| -------------- | ----------- | ------------------ | ------------------- |
+| Health Check   |HTTP API     | HTTP API           | TCP                 |
+| -------------- | ----------- | ------------------ | ------------------- |
+| Key Value      | 3 modes     | Good Consistency   | Strong Consistency  |
+| -------------- | ----------- | ------------------ | ------------------- |
+| Language       | Golang      | Golang             | Java                |
+| -------------- | ----------- | ------------------ | ------------------- |
 
 ### Disadvantages: ###
 As with any distributed architecture, consul faces issues with synchronisation. Consul relies heavily on the functionality of the underlying network. Consul does not provide efficient network checks and repairs.
