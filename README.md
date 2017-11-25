@@ -35,7 +35,7 @@ Consul uses a consensus protocol - _**Raft**_ to maintain consistency. The serve
 
 This results in a very low coupling between datacenters, but because of failure detection, connection caching and multiplexing, cross-datacenter requests are relatively fast and reliable.
 
-### USE CASES ###
+### USE CASES AND ADVANTAGES OF CONSUL ###
 The usage of service discovery comes in as a boon for distributed systems. Consul allows independent operation of nodes across the LAN and WAN network .
 
 _ZooKeeper, etcd_ etc are all similar in their architecture. All three have server nodes that require a quorum of nodes to operate (usually a simple majority). They are strongly-consistent and expose various primitives that can be used through client libraries within applications to build complex distributed systems.
@@ -53,7 +53,7 @@ The gossip protocol implements an efficient failure detector that can scale to c
 
 With _Consul_, clients can check that a web server is returning 200 status codes, that memory utilization is not critical, that there is sufficient disk space, etc. The Consul clients expose a simple HTTP interface and avoid exposing the complexity of the system to clients in the same way as _ZooKeeper_.
 
-Consul generally outperforms other service discovery tools like _Zookeeper_,_etcd_ and any other tools that offer a similar service in terms of ease of service discovery, failure detection and health checks, reducing the burden of application developers as compared to other service discovery tools.
+Consul generally outperforms other service discovery tools like _Zookeeper_, _etcd_ and any other tools that offer a similar service in terms of ease of service discovery, failure detection and health checks, reducing the burden of application developers as compared to other service discovery tools.
  
 ## Below is a summary of the advantages of Consul over Zookeeper and Etcd. ##
  
