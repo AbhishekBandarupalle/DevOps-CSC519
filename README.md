@@ -21,15 +21,15 @@ _Consul_ is distributed and highly available system. It runs as a cluster of sys
 Every node that provides services to Consul runs a Consul agent. Running an agent is not required for discovering other services or getting/setting key/value data. The agent is responsible for health checking the services on the node as well as the node itself
 
 * _**Agent**_ - An agent is the long running daemon on every member of the Consul cluster. It is started by running consul agent. The agent is able to run in either client or server mode. Since all nodes must be running an agent, it is simpler to refer to the node as being either a client or server, but there are other instances of the agent. All agents can run the DNS or HTTP interfaces, and are responsible for running checks and keeping services in sync.
-* **_Client**_ - A client is an agent that forwards all RPCs to a server. The client is relatively stateless. The only background activity a client performs is taking part in the LAN gossip pool. This has a minimal resource overhead and consumes only a small amount of network bandwidth.
-* **_Server**_ - A server is an agent with an expanded set of responsibilities including participating in the Raft quorum, maintaining cluster state, responding to RPC queries, exchanging WAN gossip with other datacenters, and forwarding queries to leaders or remote data centers.
+* _**Client**_ - A client is an agent that forwards all RPCs to a server. The client is relatively stateless. The only background activity a client performs is taking part in the LAN gossip pool. This has a minimal resource overhead and consumes only a small amount of network bandwidth.
+* _**Server**_ - A server is an agent with an expanded set of responsibilities including participating in the Raft quorum, maintaining cluster state, responding to RPC queries, exchanging WAN gossip with other datacenters, and forwarding queries to leaders or remote data centers.
 
 ![Screenshot of consul.PNG.html](https://github.ncsu.edu/abandar/Tech-Talks/blob/master/consul.PNG)
 
-Now as with every distributed architecture it becomes necessary to communicate  between the different nodes. Consul uses a gossip protocol - **_Serf**_,  to manage cluster membership, failure detection, and general orchestration.
+Now as with every distributed architecture it becomes necessary to communicate  between the different nodes. Consul uses a gossip protocol - _**Serf**_,  to manage cluster membership, failure detection, and general orchestration.
  Serf relies on TCP and UDP unicast. Broadcast and Multicast are rarely available in a multi-tenant or cloud network environment. For that reason, Consul and Serf were both designed to avoid any dependence on those capabilities.
 The gossip protocol serves as a database as it contains the list of all the nodes in the cluster. As a result the nodes do not handle the task of service discovery and node failures. The gossip protocol can work over the LAN and WAN network.
-Consul uses a consensus protocol - **_Raft**_ to maintain consistency. The servers in each datacenter run Raft protocol. This protocol helps to elect a leader among all the participating nodes. This election of the leader helps in synchronisation on the distributed architecture.
+Consul uses a consensus protocol - _**Raft**_ to maintain consistency. The servers in each datacenter run Raft protocol. This protocol helps to elect a leader among all the participating nodes. This election of the leader helps in synchronisation on the distributed architecture.
 This results in a very low coupling between datacenters, but because of failure detection, connection caching and multiplexing, cross-datacenter requests are relatively fast and reliable.
 
 ### USE CASES ###
