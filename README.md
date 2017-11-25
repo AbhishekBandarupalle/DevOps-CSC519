@@ -52,15 +52,10 @@ Consul generally outperforms other service discovery tools like _Zookeeper_,_etc
 | Properties     | Consul      | Etcd               | Zoo Keeper          |
 | -------------- | ----------- | ------------------ | ------------------- |
 | User Interface | Available   | NO                 | NO                  |
-| -------------- | ----------- | ------------------ | ------------------- |
 | RPC            | Available   | Available          | NO                  |
-| -------------- | ----------- | ------------------ | ------------------- |
 | Health Check   |HTTP API     | HTTP API           | TCP                 |
-| -------------- | ----------- | ------------------ | ------------------- |
 | Key Value      | 3 modes     | Good Consistency   | Strong Consistency  |
-| -------------- | ----------- | ------------------ | ------------------- |
 | Language       | Golang      | Golang             | Java                |
-| -------------- | ----------- | ------------------ | ------------------- |
 
 ### Disadvantages: ###
 As with any distributed architecture, consul faces issues with synchronisation. Consul relies heavily on the functionality of the underlying network. Consul does not provide efficient network checks and repairs.
