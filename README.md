@@ -75,6 +75,7 @@ Also consul sends repeated messages for communicating and maintaining synchronis
 Suppose we have an node that provides database services in the cluster. The consul agent can run a health check on the node. The health check can be to measure the CPU and memory usage on the node. Now if the health check detects that the resource utilisation is above the set threshold, consul can redirect the traffic to other nodes that provide that service and this can avoid load on the existing node. Thus consul can be used to distribute load among clusters.
 
 **References:**
+
 https://www.consul.io/docs/index.html
 
 https://blog.scottlowe.org/2015/02/06/quick-intro-to-consul/
