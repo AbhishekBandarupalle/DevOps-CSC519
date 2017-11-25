@@ -44,35 +44,20 @@ Consul provides first-class support for service discovery, health checking, K/V 
  
 ## Below are the advantages that consul provides. ##
  
-Properties
-Consul
-Etcd
-Zoo Keeper
-User Interface
-Available
-          NO
-          NO
-RPC
-Available
-Available
-          NO
-Health Check
-HTTP API
-HTTP API
-TCP
-Key Value
-3 Consistency modes
-Good Consistency
-Strong Consistency
-Token System
-Available
-          NO
-          NO
-Language
-Golang
-Golang
-Java
- 
+| Properties | Consul | Etcd | Zoo Keeper
+
+| ---------- | ------------- | ----------
+
+User Interface | Available | NO | NO
+| ---------- | ------------- | ----------
+RPC | Available | Available |NO
+| ---------- | ------------- | ----------
+Health Check |HTTP API | HTTP API | TCP
+| ---------- | ------------- | ----------
+Key Value | 3 Consistency modes | Good Consistency |Strong Consistency
+| ---------- | ------------- | ----------
+Language | Golang | Golang | Java
+ | ---------- | ------------- | ----------
 
 ### Disadvantages: ###
 As with any distributed architecture, consul faces issues with synchronisation. Consul relies heavily on the functionality of the underlying network. Consul does not provide efficient network checks and repairs.
