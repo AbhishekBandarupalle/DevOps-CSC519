@@ -76,4 +76,5 @@ Suppose we have an node that provides database services in the cluster. The cons
 
 **References:**
 https://www.consul.io/docs/index.html
+
 https://blog.scottlowe.org/2015/02/06/quick-intro-to-consul/
