@@ -1,0 +1,42 @@
+Nodes:
+
+BootStrap Server -- /etc/consul.d/config.json
+
+{
+"bootstrap": true,
+"server": true,
+"datacenter": "dc1",
+"node_name": "bootstrap-server",
+"data_dir": "/var/consul",
+"bind_addr": "10.0.0.4",
+"log_level": "INFO",
+"enable_syslog": true,
+"ui_dir": "/opt/dist"
+}
+
+Server -- /etc/consul.d/config.json
+
+{
+"bootstrap": false,
+"server": true,
+"datacenter": "dc1",
+"node_name": "server",
+"bind_addr": "10.0.0.5",
+"data_dir": "/var/consul",
+"log_level": "INFO",
+"enable_syslog": true
+}
+
+
+Client -- /etc/consul.d/config.json
+
+{
+"bootstrap": false,
+"server": true,
+"datacenter": "dc1",
+"node_name": "client",
+"bind_addr": "10.0.0.6",
+"data_dir": "/var/consul",
+"log_level": "INFO",
+"enable_syslog": true
+}

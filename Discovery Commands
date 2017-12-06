@@ -1,0 +1,38 @@
+
+Nodes Discovery:
+
+CLI - consul members; 
+API - curl localhost:8500/v1/catalog/nodes | python -m json.tool
+
+Services: Webserver - running on 2 servers. 
+
+For Services: curl http://localhost:8500/v1/catalog/services
+
+On Bootstrap Server:
+
+{
+"service":{
+ "name": "webserver",
+ "tags": ["redserver"],
+ "port": 80
+  }
+}
+
+On Server:
+
+{
+"service":{
+ "name": "webserver",
+ "tags": ["redserver"],
+ "port": 80
+  }
+}
+
+
+For DNS records: dig @localhost -p 8600 webserver.service.consul SRV
+		
+			curl http://localhost:8500/v1/catalog/service/webserver
+
+
+Health Checking: curl 'http://localhost:8500/v1/health/service/webserver?passing'
+Node:  curl 'http://localhost:8500/v1/health/node/server'
