@@ -1,12 +1,10 @@
-# HW0
-This repo contains the Homework files of CSC 519. There are 4 files:
+### Homework-0
+This repo contains the Homework files of CSC 519 - 
 
-post-commit : which is the post-commit script
+- post-commit : which is the post-commit script
 
-screencast.txt: A .txt file with link to the youtube video of my screencast
+- Learning_git.jpg: Screenshot showing completed levels of git training
 
-Learning_git.jpg: Screenshot showing completed levels of git training
+- Concepts.pdf: A .pdf file with answers for the questions asked.
 
-Concepts.pdf: A .pdf file with answers for the questions asked.
-
-
+Here is the link to the youtube video:  https://youtu.be/Dwc4E9ORSGY
