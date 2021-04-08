@@ -1,4 +1,4 @@
-### Homework-0
+### HW-0
 This repo contains the Homework files of CSC 519 - 
 
 - post-commit : which is the post-commit script
