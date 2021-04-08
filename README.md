@@ -33,4 +33,4 @@ Also, it comments on how API server handles the requests, when the ratings serve
 
 Here is the screenshot of the results of test.sh:
 
-![Screenshot of test.sh](https://github.ncsu.edu/abandar/HW4/blob/master/Screenshot%20of%20test.sh.png)
+![Screenshot of test.sh](https://github.com/AbhishekBandarupalle/DevOps-CSC519/blob/HW4/Screenshot%20of%20test.sh.png)
